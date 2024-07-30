@@ -1,0 +1,128 @@
+[
+  {
+    "bookname": "Mystery of the Ancient ",
+    "id": "1",
+    "img": "/public/assets/1.jpg",
+    "description": "A thrilling adventure through ancient ruins, uncovering secrets of lost civilizations.",
+    "title": "Mystery of the Ancient Ruins",
+    "tags": [
+      "mystery",
+      "historical"
+    ],
+    "review": "An engaging and well-researched novel that keeps you on the edge of your seat.",
+    "category": "Fiction",
+    "author": "John Smith",
+    "rating": 4.5,
+    "publisher": "Ancient Tales Publishing",
+    "yearOfPublishing": 2020,
+    "totalPages": 320,
+    "layout": {
+      "imagePosition": "left"
+    }
+  },
+  {
+    "bookname": "The Quantum Enigma",
+    "id": "2",
+    "img": "/public/assets/2.png",
+    "description": "A deep dive into the mysteries of quantum mechanics and its implications for our understanding of reality.",
+    "title": "The Quantum Enigma",
+    "tags": [
+      "non-fiction",
+      "physics"
+    ],
+    "review": "A fascinating exploration of the quantum world, accessible to both scientists and laymen.",
+    "category": "Non-Fiction",
+    "author": "Dr. Emily Johnson",
+    "rating": 4.8,
+    "publisher": "Science World Publishing",
+    "yearOfPublishing": 2018,
+    "totalPages": 400,
+    "layout": {
+      "imagePosition": "left"
+    }
+  },
+  {
+    "bookname": "Love in the Time of AI",
+    "id": "3",
+    "img": "/public/assets/3.png",
+    "description": "A futuristic love story set in a world where artificial intelligence is an integral part of human life.",
+    "title": "Love in the Time of AI",
+    "tags": [
+      "romance",
+      "futuristic"
+    ],
+    "review": "A heartfelt and thought-provoking romance that explores the intersection of technology and emotion.",
+    "category": "Romance",
+    "author": "Laura Green",
+    "rating": 4.2,
+    "publisher": "Future Love Press",
+    "yearOfPublishing": 2021,
+    "totalPages": 280,
+    "layout": {
+      "imagePosition": "left"
+    }
+  },
+  {
+    "bookname": "The Culinary Chronicles",
+    "id": "4",
+    "img": "/public/assets/4.jpg",
+    "description": "A journey through the world of gourmet cooking, featuring recipes and stories from top chefs.",
+    "title": "The Culinary Chronicles",
+    "tags": [
+      "gourmet",
+      "recipes"
+    ],
+    "review": "A mouth-watering collection of recipes and culinary tales that will inspire any food lover.",
+    "category": "Math",
+    "author": "Chef Antonio",
+    "rating": 4.7,
+    "publisher": "Gourmet World Publishing",
+    "yearOfPublishing": 2019,
+    "totalPages": 350,
+    "layout": {
+      "imagePosition": "left"
+    }
+  },
+  {
+    "bookname": "Warriors of the Forgotten ",
+    "id": "5",
+    "img": "/public/assets/5.png",
+    "description": "An epic fantasy novel about a group of warriors on a quest to save their world from an ancient evil.",
+    "title": "Warriors of the Forgotten Realm",
+    "tags": [
+      "epic",
+      "adventure"
+    ],
+    "review": "A captivating and richly detailed fantasy that will transport you to another world.",
+    "category": "Fantasy",
+    "author": "Brian Foster",
+    "rating": 4.9,
+    "publisher": "Epic Fantasy Publishers",
+    "yearOfPublishing": 2022,
+    "totalPages": 500,
+    "layout": {
+      "imagePosition": "left"
+    }
+  },
+  {
+    "bookname": "The Silent Witness",
+    "id": "6",
+    "img": "/public/assets/6.jpg",
+    "description": "A gripping crime thriller about a detective who must solve a murder case with no witnesses.",
+    "title": "The Silent Witness",
+    "tags": [
+      "crime",
+      "detective"
+    ],
+    "review": "A suspenseful and well-crafted mystery that will keep you guessing until the very end.",
+    "category": "Thriller",
+    "author": "Samantha Lee",
+    "rating": 4.3,
+    "publisher": "Thriller House",
+    "yearOfPublishing": 2017,
+    "totalPages": 360,
+    "layout": {
+      "imagePosition": "left"
+    }
+  }
+]
