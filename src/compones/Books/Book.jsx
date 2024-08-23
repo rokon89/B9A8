@@ -4,7 +4,7 @@ import Books from './Books';
 const Book = () => {
     const [books, setbooks] = useState([])
     useEffect(() => {
-        fetch("api.json")
+        fetch("/api.json")
             .then(res => res.json())
             .then(data => setbooks(data))
     }, [])

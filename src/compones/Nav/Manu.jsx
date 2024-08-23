@@ -18,7 +18,7 @@ const Manu = () => {
             </div>
             <ul className={`absolute  ${open ? 'hidden' : ''}`}>
                 {
-                    routes.map(r => <li className={` `} key={r.id}>
+                    routes.map(r => <li className={``} key={r.id}>
                         <NavLink className={({ isActive }) => isActive ?
                             " text-green-400  border border-green-500 rounded-md " :
                             ""} to={r.path} > {r.name}</NavLink>

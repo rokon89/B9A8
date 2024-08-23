@@ -12,7 +12,8 @@ const Nav = () => {
             <div>
                 <ul className="hidden md:flex text-lg space-x-8 ">
                     {
-                        routes.map(route => <li className="" key={route.id}><NavLink className={({ isActive }) => isActive ? "text-lg  text-green-400  border border-green-500 p-2 rounded-md " : ""}
+                        routes.map(route => <li className="" key={route.id}><NavLink className={({ isActive }) =>
+                             isActive ? "text-lg  text-green-400  border border-green-500 p-2 rounded-md " : ""}
                             to={route.path}>
                             {route.name}
                         </NavLink>

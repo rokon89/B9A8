@@ -2,7 +2,7 @@
   {
     "bookname": "Mystery of the Ancient ",
     "id": "1",
-    "img": "/public/assets/1.jpg",
+    "img": "/assets/1.jpg",
     "description": "A thrilling adventure through ancient ruins, uncovering secrets of lost civilizations.",
     "title": "Mystery of the Ancient Ruins",
     "tags": [
@@ -23,7 +23,7 @@
   {
     "bookname": "The Quantum Enigma",
     "id": "2",
-    "img": "/public/assets/2.png",
+    "img": "/assets/2.png",
     "description": "A deep dive into the mysteries of quantum mechanics and its implications for our understanding of reality.",
     "title": "The Quantum Enigma",
     "tags": [
@@ -44,7 +44,7 @@
   {
     "bookname": "Love in the Time of AI",
     "id": "3",
-    "img": "/public/assets/3.png",
+    "img": "/assets/3.png",
     "description": "A futuristic love story set in a world where artificial intelligence is an integral part of human life.",
     "title": "Love in the Time of AI",
     "tags": [
@@ -65,7 +65,7 @@
   {
     "bookname": "The Culinary Chronicles",
     "id": "4",
-    "img": "/public/assets/4.jpg",
+    "img": "/assets/4.jpg",
     "description": "A journey through the world of gourmet cooking, featuring recipes and stories from top chefs.",
     "title": "The Culinary Chronicles",
     "tags": [
@@ -86,7 +86,7 @@
   {
     "bookname": "Warriors of the Forgotten ",
     "id": "5",
-    "img": "/public/assets/5.png",
+    "img": "/assets/5.png",
     "description": "An epic fantasy novel about a group of warriors on a quest to save their world from an ancient evil.",
     "title": "Warriors of the Forgotten Realm",
     "tags": [
@@ -107,7 +107,7 @@
   {
     "bookname": "The Silent Witness",
     "id": "6",
-    "img": "/public/assets/6.jpg",
+    "img": "/assets/6.jpg",
     "description": "A gripping crime thriller about a detective who must solve a murder case with no witnesses.",
     "title": "The Silent Witness",
     "tags": [
